@@ -1,5 +1,10 @@
-# Start support project for YSC
+## Install dependencies
 ```bash
-cd YSC-support
+cd YSC-support/
+npm install
+```
+
+## Start support project for YSC
+```bash
 npm start
 ```
